@@ -5,7 +5,7 @@ function Nav() {
     <nav>
       <ul>
         <li>
-          <Link to="/">Productos</Link>
+          <Link to="/">Home</Link>
         </li>
         <li>
           <Link to="/cotizar">Cotizar</Link>
